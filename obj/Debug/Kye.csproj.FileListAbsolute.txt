@@ -1,0 +1,6 @@
+C:\Users\ProMa\source\repos\Kye\bin\Debug\Kye.dll
+C:\Users\ProMa\source\repos\Kye\bin\Debug\Kye.pdb
+C:\Users\ProMa\source\repos\Kye\obj\Debug\Kye.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\Kye\obj\Debug\Kye.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\Kye\obj\Debug\Kye.dll
+C:\Users\ProMa\source\repos\Kye\obj\Debug\Kye.pdb
