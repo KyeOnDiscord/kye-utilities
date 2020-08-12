@@ -18,7 +18,7 @@
 **</h3>KyeInt</h3>**
 
     KyeInt.RandomInt(int min, int max) - Returns a random integer between the minimum and maximum set values
-    KyeInt.GetGPUCount() - Gets how many GPU's are in your PC's hardware (Should be accurate however, only been tested on 1 PC)
+    KyeInt.GetGPUCount() - Gets how many GPU's are in your PC's hardware (Should be accurate however, it has only been tested on 1 PC)
 
 **KyeString**
 
