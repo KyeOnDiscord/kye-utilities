@@ -23,6 +23,7 @@
 **KyeString**
 
     KyeString.GetIP() - Returns the user's current IP Address
+    KyeString.GetCountry() - Returns the user's country based on their IP Address
     KyeString.GetHWID() - Gets the user's HWID in Sha256 (Uses Machine GUID & CPU ID)
     KyeString.RandomString(int length) - Returns a random string with the length specified
     KyeString.RandomStringWithoutNumbers(int length) - Returns a random string without numbers at the length specified.
