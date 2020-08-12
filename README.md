@@ -1,5 +1,7 @@
 # Kye Utilities
 
+Add Kye.dll as a reference and use the namespace `Using Kye.dll`
+
 <h2> Features</h2>
 
 <h3>KyeBool</h3> 
